@@ -1,0 +1,21 @@
+//1
+wybór elementu listy umożliwi jego podgląd i edycję, tylko jeśli produkt jest nadal przydatny,
+w przeciwnym wypadku wyświetli stosowną informację o braku możliwości edycji
+takiego produktu
+
+//2
+dłuższe przytrzymanie spowoduje pokazanie alertu z zapytaniem o usunięcie elementu z
+listy (jeśli produkt jest dalej ważny). Jeśli użytkownik zatwierdzi usunięcie wpis powinien
+zniknąć z listy, a podsumowanie się aktualizować [2p]
+
+//3
+uruchamia się w następstwie kliknięcia przycisku dodającego lub w przypadku edycji istniejącego
+wpisu na liście
+
+//4
+ekran ten umożliwia nadanie/zmianę danych wpisu oraz zawiera przycisk zapisujący dokonane
+zmiany/wprowadzone dane
+
+//7
+edycja produktu nie może odbywać poprzez usunięcie starego wpisu i dodanie go ponownie
+ze zmienioną zawartością [brak spełnienia kryterium: -2p]
